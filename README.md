@@ -19,6 +19,8 @@ Problemas: a veces no pilla bien la moneda de 1 euro y no se puede calcular el p
 ![image](https://github.com/Kronn0/VC_P3/assets/92724148/3859d677-8223-4b1b-9b9c-e40b5a875e93)
 
 Monedas juntas:
+![image](https://github.com/Kronn0/VC_P3/assets/92724148/e72b1004-ed2a-43de-997c-5c8f5052d91e)
+
 
 ![image](https://github.com/Kronn0/VC_P3/assets/92724148/de36c8d3-4013-4e0d-9d27-16aa9abf4782)
 
