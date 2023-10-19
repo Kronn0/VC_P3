@@ -35,9 +35,6 @@ Primero nos dimos cuenta que la relación de Hue/Saturación en las monedas de r
 
 Hemos usado la detección de contornos para sacar información de los objetos de la imagenes, tales como: radio, color, perimetro, area... Hemos usado principalmente el color para el Alquitrán ya que es muy oscuro y normalmente por debajo de una media de 80. Para las pellets hemos calculado su cercania con los circulos ya que son los unicos objetos que se asmilian a ellos y por último hemos por descarte dejado los fragmentos para los que no caen en estos ya que los fragmentos son erraticos pero muy claros. 
 
-![image](https://github.com/Kronn0/VC_P3/assets/92724148/7b6d359a-f259-4dd2-8822-68405cce249d)
-
-![image](https://github.com/Kronn0/VC_P3/assets/92724148/d1111617-b315-4270-8bec-268cccc981c7)
 
 Fragment:
 
